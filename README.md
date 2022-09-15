@@ -7,5 +7,5 @@
 
 [Netlify Link](https://dashing-mochi-bbc618.netlify.app/)
 
-### Please refresh once if some error uccur during load.
+### *Please refresh once if some error uccur during load.*
 ## You can refer to the below video for quich demonstration of the project
