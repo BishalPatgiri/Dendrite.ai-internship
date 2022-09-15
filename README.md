@@ -7,3 +7,4 @@
 
 [Netlify Link](https://dashing-mochi-bbc618.netlify.app/)
 
+###Please refresh once if some error uccur during load.
