@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#homepage{
+    display: flex;
+}
+#sidebar{
+    padding-top: 100%;
+}
+#sidebar>div{
+    width: 60%;
+    margin: auto;
+    display: flex;
+    gap: 10px;  
+    padding: 16px 10px;
+    align-items: center;
+}
+.list,#sidebar>div>p{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+#mainSidebar{
+    width: 12%;
+    height: 800px;
+    background-color: blueviolet;
+    color: rgb(209, 201, 201);
+    position: fixed;
+}
+
+#mainDiv{
+    width: 100%;
+    padding-left: 14%;
+
+}
+#albumDiv{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    gap: 20px;
+    row-gap: 30px;
+}
+#albumDiv>div{
+    text-align: center;
+    padding: 10px;
+}
+.noDisplay{
+    display: none;
+}
