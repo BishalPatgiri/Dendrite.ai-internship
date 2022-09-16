@@ -11,5 +11,5 @@
 
 [Netlify Link](https://dashing-mochi-bbc618.netlify.app/)
 
-### *Please refresh once if some error ouccur during load.*
+#### *Please refresh once if some error ouccur during load.*
 
