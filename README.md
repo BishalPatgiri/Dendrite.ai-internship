@@ -5,8 +5,8 @@
 
 ## Step to Start the project
 - In your terminal type
-`npm install `
-- `npm start`
+`npm install ` 
+- Type `npm start`
 ## You can directly use the below Deployed link also
 
 [Netlify Link](https://dashing-mochi-bbc618.netlify.app/)
