@@ -28,6 +28,7 @@ export const PlayList = () => {
     setMainlist([...mainlist,main])
     saveLocalData("playlist",JSON.stringify(mainlist))
     setName("")
+    setList([])
     // alert("Hemma")
   }
 
@@ -61,11 +62,9 @@ const getGenres = async (token) => {
 }
 
 useEffect(()=>{
-  if(data.length===0){
   getToken()
   getGenres(token)
-  }
-},[data.length,token])
+},[token])
 
   return (
     <div>

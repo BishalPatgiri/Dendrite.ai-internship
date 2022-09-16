@@ -8,7 +8,7 @@ export const Sidebar = ({showSearch,setshowSearch}) => {
     <div id='sidebar'>
         <div>
             <FontAwesomeIcon icon={faList} />
-            <Link className='list' to={"/"} >Home</Link>
+            <Link className='list' to="/" >Home</Link>
         </div>
         <div>
             <FontAwesomeIcon icon={faSearch}/>
