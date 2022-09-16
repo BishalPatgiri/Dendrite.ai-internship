@@ -9,7 +9,7 @@
 - Type `npm start`
 ## You can directly use the below Deployed link also
 
-[Netlify Link](https://dashing-mochi-bbc618.netlify.app/)
+[Netlify Link](https://warm-biscuit-c397fd.netlify.app/)
 
 #### *Please refresh once if some error ouccur during load.*
 
